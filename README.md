@@ -1,2 +1,2 @@
 # Accueil
-* [Tuto Latex: Éditer en Arabe](https://darkyass.github.io/arablatex/#/)
+* <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Tuto Latex: Éditer en Arabe</a>
