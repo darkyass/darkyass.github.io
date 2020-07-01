@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-header h1#project_title > * {
-  display: none;
+header h1#project_title {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 header h1#project_title:after {
