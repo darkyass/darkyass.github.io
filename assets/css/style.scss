@@ -5,15 +5,15 @@
 
 header h1#project_title {
   visibility: hidden;
-	position: relative;
+  position: relative;
 }
 
 header h1#project_title:after {
   visibility: visible;
-	position: absolute;
-	top: 0;
-	left: 0;
-	content: "Je partage mes connaissances";
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "Je partage ce que je connaîs";
 }
 
 header a#forkme_banner {
