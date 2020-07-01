@@ -8,3 +8,4 @@ SageMath est un système logiciel de mathématiques gratuit, libres sous licence
 C'est une alternative libre, gratuite et fiable à Magma, Maple, Mathematica et Matlab.
 
 ## Auto Multiple Choice
+Auto Multiple Choice est un ensemble d'utilitaires permettant de créer, gérer et corriger automatiquement des questionnaires à choix multiples (QCM). C'est un logiciel libre distribué sous la licence GPLv2+.
