@@ -4,13 +4,16 @@
 @import "{{ site.theme }}";
 
 header h1#project_title {
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
+  visibility: hidden;
+	position: relative;
 }
 
 header h1#project_title:after {
-  content: 'test';
+  visibility: visible;
+	position: absolute;
+	top: 0;
+	left: 0;
+	content: "This text replaces the original.";
 }
 
 header a#forkme_banner {
