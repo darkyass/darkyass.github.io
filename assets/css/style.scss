@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+header h1#project_title:after {
+  display: none;
+}
+
+header h1#project_title:after {
+  content: 'test';
+}
+
 header a#forkme_banner {
   display: none !important;
 }
