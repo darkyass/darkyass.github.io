@@ -4,5 +4,7 @@ LaTeX est un système de composition de documents de haute qualité. Il comprend
 * <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Tuto Latex: Éditer en Arabe</a>
 
 ## SageMath
+SageMath est un système logiciel de mathématiques gratuit, libres sous licence GPL. Il s'appuie sur de nombreux packages libres: NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R et bien d'autres. Il permet d'Accéder à leur puissance combinée via un langage commun basé sur Python ou directement à travers des interfaces.
+C'est une alternative libre, gratuite et fiable à Magma, Maple, Mathematica et Matlab.
 
 ## Auto Multiple Choice
