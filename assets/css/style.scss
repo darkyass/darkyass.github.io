@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-header h1#project_title:after {
+header h1#project_title > * {
   display: none;
 }
 
