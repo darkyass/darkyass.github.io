@@ -3,4 +3,4 @@
 
 ## SageMath
 
-## AMC
+## Auto Multiple Choice
