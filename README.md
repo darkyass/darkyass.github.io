@@ -1,7 +1,7 @@
 ## Latex
 LaTeX est un système de composition de documents de haute qualité. Il comprend des fonctionnalités conçues pour la production de documentation technique et scientifique. C'est la norme de facto pour la communication et la publication de documents scientifiques.
 
-* <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Distributions et éditeurs Latex.</a>
+* <a href="arablatex.html" target="_blank">Distributions et éditeurs Latex.</a>
 * <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Structure d'un fichier Latex et compilation.</a>
 * <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Créer un fichier Latex en langue Arabe.</a>
 * <a href="https://darkyass.github.io/arablatex/#/" target="_blank">Déssiner en Latex.</a>
