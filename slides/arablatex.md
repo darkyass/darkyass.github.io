@@ -1,6 +1,3 @@
----
-title: Editer latex en Arabe
----
 <!-- .slide: data-background="#000000" -->
 # Tuto Latex <br> éditer en Arabe
 
