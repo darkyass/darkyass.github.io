@@ -24,6 +24,7 @@
 <center><img src="http://www.tug.org/mactex/images/mactexlogoX5.png" alt="MacTex"	title="MacTex" width="250"/></center>
 
 
+
 <!-- .slide: data-background="#000000" -->
 # Éditeurs
 
