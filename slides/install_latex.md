@@ -8,7 +8,7 @@
 
 
 ## Une distribution LaTeX
-<div style="text-align: right"> C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer, via LaTeX, votre code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. C'est l'objet le plus important. </div>
+<div style="text-align: justify"> C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer, via LaTeX, votre code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. C'est l'objet le plus important. </div>
 
 
 
