@@ -8,15 +8,15 @@
 
 
 ## Une distribution LaTeX
-<div style="text-align: justify"> C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer le code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. </div>
+<div style="text-align: justify"> C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer le code tapé dans l'éditeur LaTeX en un document PDF ou PS (PostScript). </div>
 
 
 ## Un éditeur LaTeX
 <div style="text-align: justify"> C'est un logiciel permettant de taper votre texte, de mettre en couleur les différents codes utilisés, de numéroter vos lignes, etc. Il propose également un bon nombres de raccourcis et de boutons, qui diffèrent d'un éditeur à l'autre, utiles à la création de document. Il est par ailleurs possible de taper du LaTeX dans un simple éditeur de texte. </div>
 
 
-## Un lecteurs de PDF et de PostScript
-<div style="text-align: justify"> Pour pouvoir lire et imprimer less productions. </div>
+## Un lecteurs de PDF et de PS
+<div style="text-align: justify"> Pour pouvoir lire et imprimer les productions. </div>
 
 
 
