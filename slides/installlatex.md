@@ -10,12 +10,13 @@
 ## TexLive
 
 * <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_TeX_Live.svg" alt="TexLive"	title="A cute kitten" width="450"/>
+
 
 
 ## MikTex
 
 * <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_MiKTeX.svg" alt="TexLive"	title="A cute kitten" width="450"/>
 
 
 ## MacTex
