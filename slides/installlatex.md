@@ -10,18 +10,18 @@
 ## TexLive
 
 * <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_TeX_Live.svg" alt="TexLive"	title="TexLive" width="450"/>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_TeX_Live.svg" alt="TexLive"	title="TexLive" width="450"/></center>
 
 
 ## MikTex
 
 * <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_MiKTeX.svg" alt="MikTex"	title="MikTex" width="450"/>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_MiKTeX.svg" alt="MikTex"	title="MikTex" width="450"/></center>
 
 
 ## MacTex
 * <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
-<img src="http://www.tug.org/mactex/images/mactexlogoX5.png" alt="MacTex"	title="MacTex" width="250"/>
+<center><img src="http://www.tug.org/mactex/images/mactexlogoX5.png" alt="MacTex"	title="MacTex" width="250"/></center>
 
 
 <!-- .slide: data-background="#000000" -->
