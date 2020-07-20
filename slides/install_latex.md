@@ -1,5 +1,14 @@
 <!-- .slide: data-background="#000000" -->
-# Latex: <br> Distributions <br> et éditeurs
+# Installer Latex
+
+
+
+<!-- .slide: data-background="#000000" -->
+# Logiciels nécessaire
+
+
+## Une distribution LaTeX
+C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer, via LaTeX, votre code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. C'est l'objet le plus important.
 
 
 
