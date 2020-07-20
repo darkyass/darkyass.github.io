@@ -4,7 +4,7 @@
 
 
 <!-- .slide: data-background="#000000" -->
-# Logiciels nécessaire
+# Logiciels nécessaires
 
 
 ## Une distribution LaTeX
