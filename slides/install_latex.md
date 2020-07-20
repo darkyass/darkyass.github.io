@@ -8,7 +8,8 @@
 
 
 ## Une distribution LaTeX
-C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer, via LaTeX, votre code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. C'est l'objet le plus important.
+
+C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer, via LaTeX, votre code tapé dans l'éditeur LaTeX en un document PDF ou PostScript. C'est l'objet le plus important. {: style="text-align: justify" }
 
 
 
