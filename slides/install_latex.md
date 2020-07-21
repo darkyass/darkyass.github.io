@@ -53,31 +53,24 @@
   Les services LaTeX en ligne tels que <a href="http://papeeria.com/" target="_blank">Papeeria</a>, <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, <a href="https://cloudlatex.io/en" target="_blank">Cloud LaTeX</a>, <a href="https://www.datazar.com/" target="_blank">Datazar</a> et <a href="https://latexbase.com/" target="_blank">LaTeX Base</a> offrent la possibilité d'éditer, d'afficher et de télécharger des fichiers LaTeX et les PDF résultants.
 
 
-## TexLive
-
-* <a href="http://www.tug.org/texlive/" target="_blank">TexLive</a> (GNU/Linux, Windows, MacOSX)
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_TeX_Live.svg" alt="TexLive"	title="TexLive" width="450"/></center>
-
-
-## MikTex
-
-* <a href="https://miktex.org/download/" target="_blank">MikTex</a> (GNU/Linux, Windows, MacOSX)
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_MiKTeX.svg" alt="MikTex"	title="MikTex" width="450"/></center>
-
-
-## MacTex
-* <a href="http://www.tug.org/mactex/" target="_blank">MacTex</a> (MacOSX)
-<center><img src="http://www.tug.org/mactex/images/mactexlogoX5.png" alt="MacTex"	title="MacTex" width="250"/></center>
-
-
 
 <!-- .slide: data-background="#000000" -->
-# Éditeurs
+# Éditeurs <br> LaTeX
+
+
+## Sous Windows
+* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> (GNU/Linux, Windows, MacOSX)
+
+
+## Sous Linux
+
+
+## Sous Mac OS
 
 
 ## Texstudio
 
-* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> (GNU/Linux, Windows, MacOSX)
+
 
 
 ## Texmaker
