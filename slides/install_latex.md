@@ -21,13 +21,13 @@
 
 ## Un lecteur de PDF et de PS
 <div style="text-align: justify">
-  C'est un logiciel permettant de lire et d'imprimer les documents PDF et PS (les productions Latex).
+  C'est un logiciel permettant de lire et d'imprimer les documents PDF et PS (les productions LateX).
 </div>
 
 
 
 <!-- .slide: data-background="#000000" -->
-# Distributions Latex
+# Distributions LateX
 
 
 ## Sous Windiws
