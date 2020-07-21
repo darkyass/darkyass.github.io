@@ -16,7 +16,7 @@
 
 
 ## Un lecteur de PDF et de PS
-<div style="text-align: justify"> C'est un logiciel permettant de lire et d'imprimer les documents productions PDF et PS. </div>
+<div style="text-align: justify"> C'est un logiciel permettant de lire et d'imprimer les documents PDF et PS (les productions Latex). </div>
 
 
 
