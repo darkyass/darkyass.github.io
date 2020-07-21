@@ -44,7 +44,7 @@
 
 ## Sous Mac OS
 <div style="text-align: justify">
-  La distribution <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a> contient tout ce dont on a besoin, y compris un système TeX complet avec LaTeX lui-même et des éditeurs pour écrire des documents.
+  La distribution <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a> contient tout ce dont on a besoin, y compris un système TeX complet avec LaTeX et des éditeurs pour écrire des documents.
 </div>
 
 
