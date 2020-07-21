@@ -8,20 +8,38 @@
 
 
 ## Une distribution LaTeX
-<div style="text-align: justify"> C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer le code tapé dans l'éditeur LaTeX en un document PDF ou PS (PostScript). </div>
+<div style="text-align: justify">
+  C'est un logiciel comportant toutes les composantes de LaTeX, c'est lui qui va transformer le code tapé dans l'éditeur LaTeX en un document PDF ou PS (PostScript).
+</div>
 
 
 ## Un éditeur LaTeX
-<div style="text-align: justify"> C'est un logiciel permettant de taper votre texte, de mettre en couleur les différents codes utilisés, de numéroter vos lignes, etc. Il propose également un bon nombres de raccourcis et de boutons, qui diffèrent d'un éditeur à l'autre, utiles à la création de document. Il est par ailleurs possible de taper du LaTeX dans un simple éditeur de texte. </div>
+<div style="text-align: justify">
+  C'est un logiciel permettant de taper votre texte, de mettre en couleur les différents codes utilisés, de numéroter vos lignes, etc. Il propose également un bon nombres de raccourcis et de boutons, qui diffèrent d'un éditeur à l'autre, utiles à la création de document. Il est par ailleurs possible de taper du LaTeX dans un simple éditeur de texte.
+</div>
 
 
 ## Un lecteur de PDF et de PS
-<div style="text-align: justify"> C'est un logiciel permettant de lire et d'imprimer les documents PDF et PS (les productions Latex). </div>
+<div style="text-align: justify">
+  C'est un logiciel permettant de lire et d'imprimer les documents PDF et PS (les productions Latex).
+</div>
 
 
 
 <!-- .slide: data-background="#000000" -->
 # Distributions Latex
+
+
+## Sous Windiws
+<div style="text-align: justify">
+  Les distributions <a href="https://miktex.org/download/" target="_blank">MiKTeX</a> ou <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a> ou <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> sont à découvrir; ils contiennent un système TeX complet avec LaTeX lui-même et des éditeurs pour écrire des documents.
+</div>
+
+
+## Sous Linux
+
+
+## Sous Mac OS
 
 
 ## TexLive
