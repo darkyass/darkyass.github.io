@@ -21,7 +21,7 @@
 
 
 <!-- .slide: data-background="#000000" -->
-# Distributions Tex
+# Distributions Latex
 
 
 ## TexLive
