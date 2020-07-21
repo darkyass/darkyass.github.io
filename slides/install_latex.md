@@ -38,11 +38,17 @@
 
 ## Sous Linux
 <div style="text-align: justify">
-  Il faudra vérifier le gestionnaire de packets (logiciels) de sa distribution Linux pour un packet TeX comprenant LaTeX. Vous pouvez également installer directement la dernière version du packet <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>, en fait, cela peut être conseillé car de nombreuses distributions Linux ne contiennent que des versions antérieures de <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>.
+  Il faudra vérifier le gestionnaire de packets (logiciels) de sa distribution Linux pour un packet TeX comprenant LaTeX. Vous pouvez également installer directement la dernière version du packet <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> ou <a href="https://miktex.org/download/#unx" target="_blank">MiKTeX</a>, en fait, cela peut être conseillé car de nombreuses distributions Linux ne contiennent que des anciennes versions.
 </div>
 
 
 ## Sous Mac OS
+<div style="text-align: justify">
+  La distribution <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a> contient tout ce dont on a besoin, y compris un système TeX complet avec LaTeX lui-même et des éditeurs pour écrire des documents.
+</div>
+
+
+## En ligne
 
 
 ## TexLive
