@@ -32,7 +32,7 @@
 
 ## Sous Windows
 <div style="text-align: justify">
-  Les distributions <a href="https://miktex.org/download/#win" target="_blank">MiKTeX</a> ou <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a> ou <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> sont à découvrir; ils contiennent un système TeX complet avec LaTeX et des éditeurs pour écrire des documents.
+  Les distributions <a href="https://miktex.org/download/#win" target="_blank">MiKTeX</a>, <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a> et <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> sont à découvrir; ils contiennent un système TeX complet avec LaTeX et des éditeurs pour écrire des documents.
 </div>
 
 
@@ -44,7 +44,7 @@
 
 ## Sous Mac OS
 <div style="text-align: justify">
-  La distribution <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a> contient tout ce dont on a besoin, y compris un système TeX complet avec LaTeX et des éditeurs pour écrire des documents.
+  Les distribution <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a> et <a href="https://miktex.org/download/#unx" target="_blank">MiKTeX</a> contiennent tout ce dont on a besoin, y compris un système TeX complet avec LaTeX et des éditeurs pour écrire des documents.
 </div>
 
 
