@@ -59,15 +59,9 @@
 
 
 ## Sous Windows
-* <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> Texmaker est un éditeur LaTeX libre et gratuit. Il intègre un éditeur spécialisé facilitant la rédaction des documents LaTeX et le moyen de les compiler rapidement. Il est distribué selon les termes de la licence GPL.
-
-
-## Sous Windows
-* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de Texmaker datant de 2009, et a développé depuis ses fonctions propres. Il se présente comme un projet Open Source et est distribué selon les termes de la licence GPL.
-
-
-## Sous Windows
-* <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> environnement de développement intégré. Voir la description en français sur wikipédia. TeXworks est inclus dans les distributions TeX Live 2009, MiKTeX 2.8 et MacTeX 2009.
+* <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> Texmaker est un éditeur LaTeX libre et gratuit. Il intègre un éditeur spécialisé facilitant la rédaction des documents LaTeX et le moyen de les compiler rapidement. Il est distribué selon les termes de la licence GPL. <!-- .element: class="fragment step-fade-in-then-out" -->
+* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de Texmaker datant de 2009, et a développé depuis ses fonctions propres. Il se présente comme un projet Open Source et est distribué selon les termes de la licence GPL. <!-- .element: class="fragment step-fade-in-then-out" -->
+* <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> environnement de développement intégré. Voir la description en français sur wikipédia. TeXworks est inclus dans les distributions TeX Live 2009, MiKTeX 2.8 et MacTeX 2009. <!-- .element: class="fragment step-fade-in-then-out" -->
 
 
 ## Sous Linux
