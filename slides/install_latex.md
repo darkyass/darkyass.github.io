@@ -32,11 +32,14 @@
 
 ## Sous Windiws
 <div style="text-align: justify">
-  Les distributions <a href="https://miktex.org/download/" target="_blank">MiKTeX</a> ou <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a> ou <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> sont à découvrir; ils contiennent un système TeX complet avec LaTeX lui-même et des éditeurs pour écrire des documents.
+  Les distributions <a href="https://miktex.org/download/#win" target="_blank">MiKTeX</a> ou <a href="http://www.tug.org/protext/" target="_blank">proTeXt</a> ou <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a> sont à découvrir; ils contiennent un système TeX complet avec LaTeX lui-même et des éditeurs pour écrire des documents.
 </div>
 
 
 ## Sous Linux
+<div style="text-align: justify">
+  Il faudra vérifier le gestionnaire de packets (logiciels) de sa distribution Linux pour un packet TeX comprenant LaTeX. Vous pouvez également installer directement la dernière version du packet <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>, en fait, cela peut être conseillé car de nombreuses distributions Linux ne contiennent que des versions antérieures de <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>.
+</div>
 
 
 ## Sous Mac OS
