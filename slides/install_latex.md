@@ -59,9 +59,11 @@
 
 
 ## Sous Windows
-* <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> est un éditeur spécialisé LaTeX libre et gratuit, facilitant la rédaction et la compilation rapide des codes LaTeX. Il est distribué selon les termes de la licence GPL.
-* <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de Texmaker datant de 2009, et qui a depuis développé ses propres fonctions. Il se présente comme un projet Open Source, distribué selon les termes de la licence GPL.
-* <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> est environnement de développement intégré. Voir la description en français sur wikipédia. TeXworks est inclus dans les distributions TeX Live 2009, MiKTeX 2.8 et MacTeX 2009.
+<div class="r-stack">
+  <p class="fragment current-visible"> <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> est un éditeur spécialisé LaTeX libre et gratuit, facilitant la rédaction et la compilation rapide des codes LaTeX. Il est distribué selon les termes de la licence GPL. </p>
+  <p class="fragment current-visible"> <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de Texmaker datant de 2009, et qui a depuis développé ses propres fonctions. Il se présente comme un projet Open Source, distribué selon les termes de la licence GPL. </p>
+  <p class="fragment"> <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> est environnement de développement intégré. Voir la description en français sur wikipédia. TeXworks est inclus dans les distributions TeX Live 2009, MiKTeX 2.8 et MacTeX 2009. </p>
+</div>
 
 
 ## Sous Linux
