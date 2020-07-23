@@ -58,7 +58,7 @@
 # Éditeurs <br> LaTeX
 
 
-## Sous Windows
+## Sous Windows/Linux/Mac OS
 <div class="r-stack">
   <p style="text-align: justify" class="fragment fade-out" data-fragment-index="0">
     <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> est un éditeur spécialisé LaTeX libre et gratuit, facilitant la rédaction et la compilation rapide des codes LaTeX. Il est distribué selon les termes de la licence GPL.
