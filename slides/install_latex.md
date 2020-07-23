@@ -58,6 +58,9 @@
 # Éditeurs <br> LaTeX
 
 
+## Quelques caractéristiques
+
+
 ## Sous Windows/Linux/Mac OS
 <div class="r-stack">
   <p style="text-align: justify" class="fragment fade-out" data-fragment-index="0">
