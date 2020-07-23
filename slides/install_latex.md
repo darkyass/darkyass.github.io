@@ -63,7 +63,7 @@
   <p style="text-align: justify" class="fragment fade-out" data-fragment-index="0">
     <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> est un éditeur spécialisé LaTeX libre et gratuit, facilitant la rédaction et la compilation rapide des codes LaTeX. Il est distribué selon les termes de la licence GPL.
   </p>
-  <p style="text-align: justify" class="fragment current-visible">
+  <p style="text-align: justify" class="fragment current-visible" data-fragment-index="0">
     <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de l'éditeur Texmaker datant de 2009, et qui a depuis développé ses propres fonctions. Il se présente comme un projet Open Source, distribué selon les termes de la licence GPL.
   </p>
   <p style="text-align: justify" class="fragment">
