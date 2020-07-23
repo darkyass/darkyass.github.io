@@ -60,15 +60,15 @@
 
 ## Sous Windows
 <div class="r-stack">
-  <div style="text-align: justify class="fragment fade-out">
+  <p style="text-align: justify class="fragment current-visible">
     <a href="https://www.xm1math.net/texmaker/download_fr.html" target="_blank">Texmaker</a> est un éditeur spécialisé LaTeX libre et gratuit, facilitant la rédaction et la compilation rapide des codes LaTeX. Il est distribué selon les termes de la licence GPL.
-  </div>
-  <div style="text-align: justify class="fragment fade-in-then-out">
+  </p>
+  <p style="text-align: justify class="fragment current-visible">
     <a href="https://www.texstudio.org/#download" target="_blank">Texstudio</a> est un embranchement (fork) de l'éditeur Texmaker datant de 2009, et qui a depuis développé ses propres fonctions. Il se présente comme un projet Open Source, distribué selon les termes de la licence GPL.
-  </div>
-  <div style="text-align: justify class="fragment fade-in">
+  </p>
+  <p style="text-align: justify class="fragment">
     <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> est un éditeur LaTeX à la fois très simple et très puissant, inspiré de l'éditeur TeXShop qui n'existe que sous Mac OS. Il est par défaut inclus dans les distributions <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>, <a href="https://miktex.org/download/" target="_blank">MiKTeX</a> et <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a>.
-  </div>
+  </p>
 </div>
 
 
