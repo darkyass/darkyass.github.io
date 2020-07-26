@@ -65,6 +65,8 @@
 * La recherche par expressions régulières.
 * La correction d'orthographique.
 * La naviguation facile entre les code source et le document compilé.
+* L'ajout d'outils et de macros définis par l'utilisateur.
+* ...
 
 
 ## Sous Windows/Linux/Mac OS
