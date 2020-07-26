@@ -59,6 +59,12 @@
 
 
 ## Quelques caractéristiques
+* La numérotation des lignes du code
+* La coloration des codes.
+* Le support d'autres langues et de l'unicode.
+* La recherche par expressions régulières.
+* La correction d'orthographique.
+* La naviguation facile entre les code source et le document compilé.
 
 
 ## Sous Windows/Linux/Mac OS
