@@ -67,7 +67,6 @@
 * un lecteur PDF et PS intégré.
 * La naviguation facile entre les code source et le document compilé.
 * L'ajout d'outils et de macros définis par l'utilisateur.
-* ...
 
 
 ## Éditeurs populaires
