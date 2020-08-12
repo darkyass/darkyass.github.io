@@ -91,9 +91,9 @@
 # Alternative <br> Cloud
 
 
-## En ligne
+## Éditer LaTeX en ligne
 <div style="text-align: justify">
-  Plusieurs services LaTeX Cloud (en ligne) tels que <a href="http://papeeria.com/" target="_blank">Papeeria</a>, <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, <a href="https://cloudlatex.io/en" target="_blank">Cloud LaTeX</a>, <a href="https://www.datazar.com/" target="_blank">Datazar</a> et <a href="https://latexbase.com/" target="_blank">LaTeX Base</a> offrent la possibilité d'éditer, d'afficher et de télécharger des fichiers LaTeX et les PDF résultants. Il suffit de créer un compte, et ensuite commencer à créer ses projets LaTeX.
+  Plusieurs services LaTeX Cloud tels que <a href="http://papeeria.com/" target="_blank">Papeeria</a>, <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, <a href="https://cloudlatex.io/en" target="_blank">Cloud LaTeX</a>, <a href="https://www.datazar.com/" target="_blank">Datazar</a> et <a href="https://latexbase.com/" target="_blank">LaTeX Base</a> offrent la possibilité d'éditer, d'afficher et de télécharger des fichiers LaTeX et les PDF résultants. Il suffit de créer un compte, et ensuite commencer à créer ses projets LaTeX.
 </div>
 
 
