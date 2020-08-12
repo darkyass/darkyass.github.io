@@ -48,11 +48,6 @@
 </div>
 
 
-## En ligne
-<div style="text-align: justify">
-  Les services LaTeX en ligne tels que <a href="http://papeeria.com/" target="_blank">Papeeria</a>, <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, <a href="https://cloudlatex.io/en" target="_blank">Cloud LaTeX</a>, <a href="https://www.datazar.com/" target="_blank">Datazar</a> et <a href="https://latexbase.com/" target="_blank">LaTeX Base</a> offrent la possibilité d'éditer, d'afficher et de télécharger des fichiers LaTeX et les PDF résultants.
-
-
 
 <!-- .slide: data-background="#000000" -->
 # Éditeurs <br> LaTeX
@@ -75,7 +70,7 @@
 * Sous Linux uniquement: <a href="https://wiki.gnome.org/Apps/GNOME-LaTeX#Installation" target="_blank">GNOME LaTeX</a>, ...
 * Sous Mac OS uniquement: <a href="https://pages.uoregon.edu/koch/texshop/obtaining.html" target="_blank">TeXShop</a>.
 
-
+<!---
 ## test
 <div class="r-stack">
   <p style="text-align: justify" class="fragment fade-out" data-fragment-index="0">
@@ -88,31 +83,18 @@
     <a href="https://www.tug.org/texworks/#Getting_TeXworks" target="_blank">TeXworks</a> est un éditeur LaTeX à la fois très simple et très puissant, inspiré de l'éditeur TeXShop qui n'existe que sous Mac OS. Il est par défaut inclus dans les distributions <a href="http://www.tug.org/texlive/" target="_blank">TeX Live</a>, <a href="https://miktex.org/download/" target="_blank">MiKTeX</a> et <a href="http://www.tug.org/mactex/" target="_blank">MacTeX</a>.
   </p>
 </div>
+--->
 
 
 
 <!-- .slide: data-background="#000000" -->
-# Alternative <br> cloud
+# Alternative <br> Cloud
 
 
-## Overleaf
-
-* <a href="https://www.overleaf.com" target="_blank">Overleaf</a> (Internet Explorer, Firefox, Chrome, ...)
-
-
-## LarexBase
-
-
-## Papeeria
-
-
-## CodingGround
-
-
-## CoCalc
-
-
-## Latex.Online
+## En ligne
+<div style="text-align: justify">
+  Plusieurs services LaTeX Cloud (en ligne) tels que <a href="http://papeeria.com/" target="_blank">Papeeria</a>, <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>, <a href="https://cloudlatex.io/en" target="_blank">Cloud LaTeX</a>, <a href="https://www.datazar.com/" target="_blank">Datazar</a> et <a href="https://latexbase.com/" target="_blank">LaTeX Base</a> offrent la possibilité d'éditer, d'afficher et de télécharger des fichiers LaTeX et les PDF résultants.
+</div>
 
 
 
