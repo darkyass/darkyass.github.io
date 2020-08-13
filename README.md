@@ -2,7 +2,7 @@
 LaTeX est un système de composition de documents de haute qualité. Il comprend des fonctionnalités conçues pour la production de documentation technique et scientifique. C'est la norme de facto pour la communication et la publication de documents scientifiques.
 
 * <a href="./slides/install_latex/" target="_blank">Distributions et éditeurs Latex.</a>
-* <a href="./slides/structure_latex/" target="_blank">Structure d'un fichier Latex et compilation.</a>
+* <a href="./slides/file_latex/" target="_blank">Structure d'un fichier Latex et compilation.</a>
 * <a href="./slides/arab_latex/" target="_blank">Créer un fichier Latex en langue Arabe.</a>
 * <a href="./slides/draw_latex/" target="_blank">Déssiner en Latex.</a>
 
